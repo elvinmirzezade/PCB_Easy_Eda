@@ -1,0 +1,1 @@
+This project is an ESP32-based development board designed on EasyEDA. The board is intended for IoT applications, prototyping, and embedded systems projects. It provides essential connectivity and functionality for developing applications on the ESP32 platform.
